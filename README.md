@@ -4,6 +4,10 @@
 
 ![OrestesJoao GitHub stats](https://github-readme-stats.vercel.app/api?username=OrestesJoao&show_icons=true&theme=transparent)
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrestesJoao&hide_progress=true)
+
 ## Tecnologias do meu cotidiano 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
