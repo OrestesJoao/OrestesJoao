@@ -2,11 +2,6 @@
 ### Olá! Eu sou o João Pedro Orestes 🙋🏻
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-da-silva-orestes-837587234/)
 
-![OrestesJoao GitHub stats](https://github-readme-stats.vercel.app/api?username=OrestesJoao&show_icons=true&theme=transparent)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrestesJoao&hide_progress=true)
 
 ## Tecnologias do meu cotidiano 
 <div style="display: inline_block"><br/>
